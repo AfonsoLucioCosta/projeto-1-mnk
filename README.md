@@ -30,6 +30,8 @@ python3 -m pip install -r requirements-dev.txt
 python3 -m pytest -q
 ```
 
+Na versão atual, 46 dos 53 testes passam; os restantes assinalam diferenças entre o comportamento implementado e o esperado na ordenação de posições, validação de entradas, estratégias do computador e resultado devolvido pelo jogo.
+
 ## Estrutura
 
 | Ficheiro | Descrição |
