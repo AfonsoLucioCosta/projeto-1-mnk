@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Sistema operativo e editores
+.DS_Store
+.idea/
+.vscode/
+
+# Materiais auxiliares locais da cadeira
+/Enunciado.pdf
+/FP2425P1_auto_evaluation.xlsx
