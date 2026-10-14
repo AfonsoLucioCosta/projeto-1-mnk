@@ -39,5 +39,6 @@ Na versão atual, 46 dos 53 testes passam; os restantes assinalam diferenças en
 | `projectoFP.py` | Implementação das funções de tabuleiro, validação, jogadas, estratégias e jogo. |
 | `test_public.py` | Testes públicos para as funções do projeto e para alguns jogos. |
 | `requirements-dev.txt` | Dependências necessárias para executar os testes. |
+| `Enunciado.pdf` | Enunciado do projeto fornecido para a cadeira. |
 
-O enunciado e a folha auxiliar de avaliação fornecidos para a cadeira são materiais locais e não fazem parte deste repositório.
+A folha auxiliar de avaliação fornecida para a cadeira é um material local e não faz parte deste repositório.
